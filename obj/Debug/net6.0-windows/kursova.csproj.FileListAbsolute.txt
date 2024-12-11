@@ -1,0 +1,16 @@
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.csproj.GenerateResource.cache
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.AssemblyInfoInputs.cache
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.AssemblyInfo.cs
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.csproj.CoreCompileInputs.cache
+D:\Users\dlafc\Desktop\C#\kursova\bin\Debug\net6.0-windows\kursova.exe
+D:\Users\dlafc\Desktop\C#\kursova\bin\Debug\net6.0-windows\kursova.deps.json
+D:\Users\dlafc\Desktop\C#\kursova\bin\Debug\net6.0-windows\kursova.runtimeconfig.json
+D:\Users\dlafc\Desktop\C#\kursova\bin\Debug\net6.0-windows\kursova.dll
+D:\Users\dlafc\Desktop\C#\kursova\bin\Debug\net6.0-windows\kursova.pdb
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.dll
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\refint\kursova.dll
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.pdb
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.genruntimeconfig.cache
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\ref\kursova.dll
+D:\Users\dlafc\Desktop\C#\kursova\obj\Debug\net6.0-windows\kursova.MainForm.resources

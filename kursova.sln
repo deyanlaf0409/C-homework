@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursova", "kursova.csproj", "{F930B9C8-5F76-44A9-A840-AC6A4C0D524E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E72EC81A-7889-41F9-883F-0155FB8EFB7A}"
+	ProjectSection(SolutionItems) = preProject
+		peopleData.json = peopleData.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F930B9C8-5F76-44A9-A840-AC6A4C0D524E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F930B9C8-5F76-44A9-A840-AC6A4C0D524E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F930B9C8-5F76-44A9-A840-AC6A4C0D524E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F930B9C8-5F76-44A9-A840-AC6A4C0D524E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C40DFD-FF10-49C3-9FDA-CDE3ECB7AF0C}
+	EndGlobalSection
+EndGlobal
